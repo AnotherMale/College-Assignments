@@ -1,4 +1,3 @@
-# by your friend Tanmay Agarwal
 import sys
 from PIL import Image
 
